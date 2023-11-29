@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @pradeepgit1001
-- 👀 I’m interested in microcontroller coding and machine learning
-- 🌱 I’m currently learning m.tech
+- 👀 I have 9 months intership experience in C++ in Intel, India.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
